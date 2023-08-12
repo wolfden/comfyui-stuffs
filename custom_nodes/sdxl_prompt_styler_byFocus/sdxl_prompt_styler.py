@@ -60,7 +60,7 @@ def read_sdxl_templates_replace_and_combine(json_data, template_name, positive_p
         print(f"An error occurred: {str(e)}")
 
 
-class FocusStyler:
+class SDXLPromptStylerbyFocus:
 
     def __init__(self):
         pass
@@ -69,8 +69,8 @@ class FocusStyler:
     def INPUT_TYPES(self):
         # Get current file's directory
         p = os.path.dirname(os.path.realpath(__file__))
-        # Construct 'Focus_styles.json' path
-        file_path = os.path.join(p, 'Focus_styles.json')
+        # Construct 'sdxl_styles.json' path
+        file_path = os.path.join(p, 'sdxl_styles.json')
 
         # Read JSON from file
         self.json_data = read_json_file(file_path)
@@ -110,9 +110,9 @@ class FocusStyler:
 
 
 NODE_CLASS_MAPPINGS = {
-    "FocusStyler": FocusStyler,
+    "SDXLPromptStylerbyFocus": SDXLPromptStylerbyFocus,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "FocusStyler": "Focus Styler",
+    "SDXLPromptStylerbyFocus": "SDXL Prompt Styler byFocus",
 }
