@@ -60,7 +60,7 @@ def read_sdxl_templates_replace_and_combine(json_data, template_name, positive_p
         print(f"An error occurred: {str(e)}")
 
 
-class SDXLPromptStylerHorror:
+class SDXLPromptStylerMileHigh:
 
     def __init__(self):
         pass
@@ -110,9 +110,9 @@ class SDXLPromptStylerHorror:
 
 
 NODE_CLASS_MAPPINGS = {
-    "SDXLPromptStylerHorror": SDXLPromptStylerHorror,
+    "SDXLPromptStylerMileHigh": SDXLPromptStylerMileHigh,
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "SDXLPromptStylerHorror": "SDXL Prompt Styler Horror",
+    "SDXLPromptStylerMileHigh": "SDXL Prompt Styler MileHigh",
 }
