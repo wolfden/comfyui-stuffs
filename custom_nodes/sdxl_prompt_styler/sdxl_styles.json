@@ -1,6 +1,6 @@
 [
     {
-        "name": "sai-base",
+        "name": "none byOriginal",
         "prompt": "{prompt}",
         "negative_prompt": ""
     },
