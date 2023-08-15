@@ -1,6 +1,6 @@
 [
     {
-        "name": "none",
+        "name": "no byArtist",
         "prompt": "{prompt}",
         "negative_prompt": ""
     },

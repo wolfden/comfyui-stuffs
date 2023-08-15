@@ -1,6 +1,6 @@
 [
     {
-        "name": "none",
+        "name": "none byHorror",
         "prompt": "{prompt}",
         "negative_prompt": ""
     },
