@@ -1,6 +1,6 @@
 [
   {
-    "name": "none byMileHigh",
+    "name": "no style",
     "prompt": "{prompt} ",
     "negative_prompt": " "
   },
@@ -21,12 +21,12 @@
   },
   {
     "name": "3D Modeling",
-    "prompt": "Creating three-dimensional objects using digital tools, often for games, films, or virtual environments.",
+    "prompt": "Creating three-dimensional objects using digital tools {prompt}, often for games, films, or virtual environments.",
     "negative_prompt": "2D illustration, oil painting"
   },
   {
     "name": "3D Printing Art",
-    "prompt": "Creating art using 3D printing technology, often for sculptures, models, or innovative designs.",
+    "prompt": "Creating art using 3D printing technology {prompt}, often for sculptures, models, or innovative designs.",
     "negative_prompt": "traditional painting, digital design"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "Acrylic Painting",
-    "prompt": "Painting using acrylic paints, often on canvas, known for quick drying and versatile techniques.",
+    "prompt": "Painting using acrylic paints {prompt}, often on canvas, known for quick drying and versatile techniques.",
     "negative_prompt": "watercolor painting, digital art"
   },
   {
@@ -146,7 +146,7 @@
   },
   {
     "name": "African Mask Making",
-    "prompt": "Creating traditional African masks, often used in ceremonies, dances, or rituals.",
+    "prompt": "Creating traditional African masks {prompt}, often used in ceremonies, dances, or rituals.",
     "negative_prompt": "European sculpture, digital design"
   },
   {
@@ -286,7 +286,7 @@
   },
   {
     "name": "Architectural Design",
-    "prompt": "Designing buildings and structures, often focusing on aesthetics, functionality, and sustainability.",
+    "prompt": "Designing buildings and structures {prompt}, often focusing on aesthetics, functionality, and sustainability.",
     "negative_prompt": "interior design, digital art"
   },
   {
@@ -316,17 +316,17 @@
   },
   {
     "name": "Art Conservation",
-    "prompt": "Preserving and restoring artworks, often focusing on maintaining historical and physical integrity.",
+    "prompt": "Preserving and restoring artworks {prompt}, often focusing on maintaining historical and physical integrity.",
     "negative_prompt": "art creation, digital design"
   },
   {
     "name": "Art Criticism",
-    "prompt": "Analyzing and evaluating art, often through writing or speaking, to interpret meaning or assess quality.",
+    "prompt": "Analyzing and evaluating art {prompt}, often through writing or speaking, to interpret meaning or assess quality.",
     "negative_prompt": "art creation, digital art"
   },
   {
     "name": "Art Curation",
-    "prompt": "Curating art exhibitions, often selecting, organizing, and interpreting works for display.",
+    "prompt": "Curating art exhibitions {prompt}, often selecting, organizing, and interpreting works for display.",
     "negative_prompt": "art creation, digital design"
   },
   {
@@ -351,7 +351,7 @@
   },
   {
     "name": "Art Education",
-    "prompt": "Teaching art, often focusing on techniques, creativity, history, and appreciation.",
+    "prompt": "Teaching art {prompt}, often focusing on techniques, creativity, history, and appreciation.",
     "negative_prompt": "performing arts, digital design"
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "name": "Art Games",
-    "prompt": "Designing games with artistic intentions, often emphasizing aesthetics, narrative, or experimental gameplay.",
+    "prompt": "Designing games with artistic intentions {prompt}, often emphasizing aesthetics, narrative, or experimental gameplay.",
     "negative_prompt": "traditional sculpture, digital art"
   },
   {
@@ -391,7 +391,7 @@
   },
   {
     "name": "Art History",
-    "prompt": "Studying the history of art, including artists, movements, techniques, and cultural context.",
+    "prompt": "Studying the history of art {prompt}, including artists, movements, techniques, and cultural context.",
     "negative_prompt": "art creation, digital art"
   },
   {
@@ -401,7 +401,7 @@
   },
   {
     "name": "Art Informatics",
-    "prompt": "Applying information technology to art practices, often for analysis, visualization, or digital curation.",
+    "prompt": "Applying information technology to art practices {prompt}, often for analysis, visualization, or digital curation.",
     "negative_prompt": "traditional painting, sculpture"
   },
   {
@@ -436,12 +436,12 @@
   },
   {
     "name": "Art Installations",
-    "prompt": "Creating large-scale, site-specific artworks, often immersive and experiential.",
+    "prompt": "Creating large-scale {prompt}, site-specific artworks, often immersive and experiential.",
     "negative_prompt": "small sculptures, digital animation"
   },
   {
     "name": "Art Journalism",
-    "prompt": "Writing about art, often for newspapers, magazines, or online platforms, including reviews, profiles, and news.",
+    "prompt": "Writing about art {prompt}, often for newspapers, magazines, or online platforms, including reviews, profiles, and news.",
     "negative_prompt": "art creation, digital art"
   },
   {
@@ -486,7 +486,7 @@
   },
   {
     "name": "Art Therapy",
-    "prompt": "Using art as a therapeutic tool, often to promote emotional, mental, or physical well-being.",
+    "prompt": "Using art as a therapeutic tool {prompt}, often to promote emotional, mental, or physical well-being.",
     "negative_prompt": "art education, digital design"
   },
   {
@@ -546,7 +546,7 @@
   },
   {
     "name": "Art and Science Collaboration",
-    "prompt": "Collaborating between art and science disciplines, often for interdisciplinary projects or research.",
+    "prompt": "Collaborating between art and science disciplines {prompt}, often for interdisciplinary projects or research.",
     "negative_prompt": "traditional painting, digital art"
   },
   {
@@ -1116,7 +1116,7 @@
   },
   {
     "name": "Art in Public Transportation",
-    "prompt": "Creating art for public transportation systems, including stations, vehicles, and signage.",
+    "prompt": "Creating art for public transportation systems {prompt}, including stations, vehicles, and signage.",
     "negative_prompt": "landscape painting, digital design"
   },
   {
@@ -1141,7 +1141,7 @@
   },
   {
     "name": "Artist's Books",
-    "prompt": "Creating books as art objects, often using unconventional formats, materials, or content.",
+    "prompt": "Creating books as art objects {prompt}, often using unconventional formats, materials, or content.",
     "negative_prompt": "novels, digital design"
   },
   {
@@ -1186,7 +1186,7 @@
   },
   {
     "name": "Augmented Reality Art",
-    "prompt": "Creating art using augmented reality, often for interactive experiences or digital overlays.",
+    "prompt": "Creating art using augmented reality {prompt}, often for interactive experiences or digital overlays.",
     "negative_prompt": "watercolor painting, digital art"
   },
   {
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "Basket Weaving",
-    "prompt": "Weaving baskets using natural materials like reeds, bamboo, or willow.",
+    "prompt": "Weaving baskets using natural materials like reeds {prompt}, bamboo, or willow.",
     "negative_prompt": "glass art, digital design"
   },
   {
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "Bio Art",
-    "prompt": "Creating art using biological materials or themes, often exploring the intersection of art and science.",
+    "prompt": "Creating art using biological materials or themes {prompt}, often exploring the intersection of art and science.",
     "negative_prompt": "landscape painting, digital art"
   },
   {
@@ -1451,7 +1451,7 @@
   },
   {
     "name": "Body Painting",
-    "prompt": "Applying paint to the human body to create artistic expressions, often for performances or exhibitions.",
+    "prompt": "Applying paint to the human body to create artistic expressions {prompt}, often for performances or exhibitions.",
     "negative_prompt": "canvas painting, digital design"
   },
   {
@@ -1466,7 +1466,7 @@
   },
   {
     "name": "Bookbinding",
-    "prompt": "Binding books using various techniques, often by hand, to create unique or restored books.",
+    "prompt": "Binding books using various techniques {prompt}, often by hand, to create unique or restored books.",
     "negative_prompt": "printmaking, digital art"
   },
   {
@@ -1521,7 +1521,7 @@
   },
   {
     "name": "Bronze Sculpture",
-    "prompt": "Creating sculptures using bronze, often through casting and patination.",
+    "prompt": "Creating sculptures using bronze {prompt}, often through casting and patination.",
     "negative_prompt": "wood carving, digital design"
   },
   {
@@ -1561,7 +1561,7 @@
   },
   {
     "name": "Cake Decorating",
-    "prompt": "Decorating cakes using icing, fondant, or other edible materials, often for artistic or themed designs.",
+    "prompt": "Decorating cakes using icing {prompt}, fondant, or other edible materials, often for artistic or themed designs.",
     "negative_prompt": "sculpture, digital design"
   },
   {
@@ -1686,7 +1686,7 @@
   },
   {
     "name": "Ceramic Sculpture",
-    "prompt": "Creating sculptures using ceramics, often through hand-building, coiling, or wheel-throwing.",
+    "prompt": "Creating sculptures using ceramics {prompt}, often through hand-building, coiling, or wheel-throwing.",
     "negative_prompt": "bronze sculpture, digital art"
   },
   {
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "Charcoal Drawing",
-    "prompt": "Drawing using charcoal, often on paper, known for deep blacks and expressive lines.",
+    "prompt": "Drawing using charcoal {prompt}, often on paper, known for deep blacks and expressive lines.",
     "negative_prompt": "oil painting, digital design"
   },
   {
@@ -1741,7 +1741,7 @@
   },
   {
     "name": "Chinese Calligraphy",
-    "prompt": "Creating art using Chinese calligraphy, often using brush and ink to write characters.",
+    "prompt": "Creating art using Chinese calligraphy {prompt}, often using brush and ink to write characters.",
     "negative_prompt": "Western calligraphy, digital design"
   },
   {
@@ -1751,7 +1751,7 @@
   },
   {
     "name": "Chinese Ink Painting",
-    "prompt": "Painting using ink and brush in traditional Chinese styles, often featuring landscapes or nature.",
+    "prompt": "Painting using ink and brush in traditional Chinese styles {prompt}, often featuring landscapes or nature.",
     "negative_prompt": "Western oil painting, digital design"
   },
   {
@@ -1796,7 +1796,7 @@
   },
   {
     "name": "Cinematography",
-    "prompt": "Art of capturing moving images in filmmaking, including camera work, lighting, and composition.",
+    "prompt": "Art of capturing moving images in filmmaking {prompt}, including camera work, lighting, and composition.",
     "negative_prompt": "film editing, sculpture"
   },
   {
@@ -1941,7 +1941,7 @@
   },
   {
     "name": "Conceptual Art",
-    "prompt": "Creating art that emphasizes ideas or concepts, often over visual or material concerns.",
+    "prompt": "Creating art that emphasizes ideas or concepts {prompt}, often over visual or material concerns.",
     "negative_prompt": "realism, digital design"
   },
   {
@@ -2061,7 +2061,7 @@
   },
   {
     "name": "Cubism",
-    "prompt": "Artistic movement breaking objects into geometric shapes and reassembling them in abstract forms.",
+    "prompt": "Artistic movement breaking objects into geometric shapes and reassembling them in abstract forms. {prompt}",
     "negative_prompt": "impressionism, landscape photography"
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "name": "Dance Choreography",
-    "prompt": "Creating and arranging dance movements for performances, often to tell a story or express emotions.",
+    "prompt": "Creating and arranging dance movements for performances {prompt}, often to tell a story or express emotions.",
     "negative_prompt": "sculpture, digital animation"
   },
   {
@@ -2226,7 +2226,7 @@
   },
   {
     "name": "Digital Illustration",
-    "prompt": "Creating illustrations using digital tools, often for books, magazines, advertising, or web design.",
+    "prompt": "Creating illustrations using digital tools {prompt}, often for books, magazines, advertising, or web design.",
     "negative_prompt": "oil painting, stone carving"
   },
   {
@@ -2331,7 +2331,7 @@
   },
   {
     "name": "Eco Art",
-    "prompt": "Creating art with environmental themes, often using sustainable materials or raising ecological awareness.",
+    "prompt": "Creating art with environmental themes {prompt}, often using sustainable materials or raising ecological awareness.",
     "negative_prompt": "urban art, digital design"
   },
   {
@@ -2421,7 +2421,7 @@
   },
   {
     "name": "Embroidery",
-    "prompt": "Decorating fabric using needle and thread, often with intricate patterns or images.",
+    "prompt": "Decorating fabric using needle and thread {prompt}, often with intricate patterns or images.",
     "negative_prompt": "painting, digital design"
   },
   {
@@ -2436,7 +2436,7 @@
   },
   {
     "name": "Environmental Art",
-    "prompt": "Creating art using natural materials or landscapes, often to raise awareness about environmental issues.",
+    "prompt": "Creating art using natural materials or landscapes {prompt}, often to raise awareness about environmental issues.",
     "negative_prompt": "urban sculpture, digital design"
   },
   {
@@ -2451,7 +2451,7 @@
   },
   {
     "name": "Etching",
-    "prompt": "Creating prints using etching techniques, often using acid to etch lines on a metal plate.",
+    "prompt": "Creating prints using etching techniques {prompt}, often using acid to etch lines on a metal plate.",
     "negative_prompt": "woodcut, digital design"
   },
   {
@@ -2476,7 +2476,7 @@
   },
   {
     "name": "Experimental Art",
-    "prompt": "Exploring innovative and unconventional art practices, often challenging traditional boundaries.",
+    "prompt": "Exploring innovative and unconventional art practices {prompt}, often challenging traditional boundaries.",
     "negative_prompt": "classical art, digital design"
   },
   {
@@ -2551,7 +2551,7 @@
   },
   {
     "name": "Fashion Photography",
-    "prompt": "Photographing fashion items, often for advertising, magazines, or brand promotion.",
+    "prompt": "Photographing fashion items {prompt}, often for advertising, magazines, or brand promotion.",
     "negative_prompt": "wildlife photography, sculpture"
   },
   {
@@ -2601,12 +2601,12 @@
   },
   {
     "name": "Film Direction",
-    "prompt": "Directing films, including overseeing the creative aspects, working with actors, and guiding the production.",
+    "prompt": "Directing films {prompt}, including overseeing the creative aspects, working with actors, and guiding the production.",
     "negative_prompt": "screenwriting, painting"
   },
   {
     "name": "Film Editing",
-    "prompt": "Editing film footage to create a coherent and engaging narrative, often using digital tools.",
+    "prompt": "Editing film footage to create a coherent and engaging narrative {prompt}, often using digital tools.",
     "negative_prompt": "cinematography, oil painting"
   },
   {
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "Food Art",
-    "prompt": "Creating art using food as a medium, often for sculptural, decorative, or conceptual purposes.",
+    "prompt": "Creating art using food as a medium {prompt}, often for sculptural, decorative, or conceptual purposes.",
     "negative_prompt": "painting, digital art"
   },
   {
@@ -2731,12 +2731,12 @@
   },
   {
     "name": "Furniture Design",
-    "prompt": "Designing furniture, often focusing on form, function, and materials.",
+    "prompt": "Designing furniture {prompt}, often focusing on form, function, and materials.",
     "negative_prompt": "landscape architecture, digital design"
   },
   {
     "name": "Futurism",
-    "prompt": "Artistic movement emphasizing speed, technology, and the future, often using dynamic lines and compositions.",
+    "prompt": "Artistic movement emphasizing speed {prompt}, technology, and the future, often using dynamic lines and compositions.",
     "negative_prompt": "traditionalism, portrait photography"
   },
   {
@@ -2841,7 +2841,7 @@
   },
   {
     "name": "Glass Sculpture",
-    "prompt": "Creating sculptures using glass, often through glassblowing, casting, or fusing techniques.",
+    "prompt": "Creating sculptures using glass {prompt}, often through glassblowing, casting, or fusing techniques.",
     "negative_prompt": "stone sculpture, digital design"
   },
   {
@@ -2926,7 +2926,7 @@
   },
   {
     "name": "Graffiti Art",
-    "prompt": "Creating art using graffiti techniques, often on walls, trains, or urban surfaces.",
+    "prompt": "Creating art using graffiti techniques {prompt}, often on walls, trains, or urban surfaces.",
     "negative_prompt": "sculpture, digital design"
   },
   {
@@ -3236,17 +3236,17 @@
   },
   {
     "name": "Indigenous Australian Art",
-    "prompt": "Art created by Indigenous Australians, often using symbols, patterns, and storytelling.",
+    "prompt": "Art created by Indigenous Australians {prompt}, often using symbols, patterns, and storytelling.",
     "negative_prompt": "European art, digital art"
   },
   {
     "name": "Indigenous Painting",
-    "prompt": "Painting in styles and themes related to indigenous cultures, often using traditional symbols and stories.",
+    "prompt": "Painting in styles and themes related to indigenous cultures {prompt}, often using traditional symbols and stories.",
     "negative_prompt": "modern abstract art, digital design"
   },
   {
     "name": "Indigenous Pottery",
-    "prompt": "Creating pottery using techniques, styles, and materials related to indigenous cultures.",
+    "prompt": "Creating pottery using techniques {prompt}, styles, and materials related to indigenous cultures.",
     "negative_prompt": "modern sculpture, digital art"
   },
   {
@@ -3271,7 +3271,7 @@
   },
   {
     "name": "Ink Drawing",
-    "prompt": "Drawing using ink, often on paper, known for bold lines and graphic effects.",
+    "prompt": "Drawing using ink {prompt}, often on paper, known for bold lines and graphic effects.",
     "negative_prompt": "charcoal drawing, digital art"
   },
   {
@@ -3281,7 +3281,7 @@
   },
   {
     "name": "Installation Art",
-    "prompt": "Creating art installations, often using mixed media and immersive techniques.",
+    "prompt": "Creating art installations {prompt}, often using mixed media and immersive techniques.",
     "negative_prompt": "portrait painting, digital art"
   },
   {
@@ -3291,7 +3291,7 @@
   },
   {
     "name": "Interactive Art",
-    "prompt": "Creating art that involves interaction, often using technology, sensors, or audience participation.",
+    "prompt": "Creating art that involves interaction {prompt}, often using technology, sensors, or audience participation.",
     "negative_prompt": "landscape painting, digital art"
   },
   {
@@ -3306,7 +3306,7 @@
   },
   {
     "name": "Interior Design",
-    "prompt": "Designing interior spaces, often focusing on aesthetics, functionality, and comfort.",
+    "prompt": "Designing interior spaces {prompt}, often focusing on aesthetics, functionality, and comfort.",
     "negative_prompt": "architectural design, digital art"
   },
   {
@@ -3341,12 +3341,12 @@
   },
   {
     "name": "Islamic Art",
-    "prompt": "Creating art in the Islamic tradition, often using geometric patterns, calligraphy, and ornamental design.",
+    "prompt": "Creating art in the Islamic tradition {prompt}, often using geometric patterns, calligraphy, and ornamental design.",
     "negative_prompt": "Christian art, digital art"
   },
   {
     "name": "Islamic Calligraphy",
-    "prompt": "Creating artistic writing in Arabic script, often for religious texts or decorative purposes.",
+    "prompt": "Creating artistic writing in Arabic script {prompt}, often for religious texts or decorative purposes.",
     "negative_prompt": "Western calligraphy, digital art"
   },
   {
@@ -3466,7 +3466,7 @@
   },
   {
     "name": "Jewelry Design",
-    "prompt": "Designing and creating jewelry, often using metals, gemstones, beads, and other materials.",
+    "prompt": "Designing and creating jewelry {prompt}, often using metals, gemstones, beads, and other materials.",
     "negative_prompt": "painting, digital animation"
   },
   {
@@ -3541,7 +3541,7 @@
   },
   {
     "name": "Kinetic Sculpture",
-    "prompt": "Creating sculptures that move, often using wind, motors, or viewer interaction.",
+    "prompt": "Creating sculptures that move {prompt}, often using wind, motors, or viewer interaction.",
     "negative_prompt": "static sculpture, digital design"
   },
   {
@@ -3556,7 +3556,7 @@
   },
   {
     "name": "Knitting",
-    "prompt": "Creating textiles by knitting yarn, often using needles, to create fabric for clothing or decorative items.",
+    "prompt": "Creating textiles by knitting yarn {prompt}, often using needles, to create fabric for clothing or decorative items.",
     "negative_prompt": "pottery, digital art"
   },
   {
@@ -3611,7 +3611,7 @@
   },
   {
     "name": "Landscape Architecture",
-    "prompt": "Designing outdoor spaces, including parks, gardens, and urban planning.",
+    "prompt": "Designing outdoor spaces {prompt}, including parks, gardens, and urban planning.",
     "negative_prompt": "building architecture, digital design"
   },
   {
@@ -3621,7 +3621,7 @@
   },
   {
     "name": "Landscape Photography",
-    "prompt": "Capturing landscapes, including natural scenery, urban environments, and seascapes.",
+    "prompt": "Capturing landscapes {prompt}, including natural scenery, urban environments, and seascapes.",
     "negative_prompt": "portrait photography, abstract painting"
   },
   {
@@ -3666,7 +3666,7 @@
   },
   {
     "name": "Lithography",
-    "prompt": "Creating prints using lithography techniques, often drawing on a stone or metal plate.",
+    "prompt": "Creating prints using lithography techniques {prompt}, often drawing on a stone or metal plate.",
     "negative_prompt": "woodcut, digital design"
   },
   {
@@ -3871,7 +3871,7 @@
   },
   {
     "name": "Media Art",
-    "prompt": "Integrating digital media, technology, and interactive elements into art, often for immersive experiences.",
+    "prompt": "Integrating digital media {prompt}, technology, and interactive elements into art, often for immersive experiences.",
     "negative_prompt": "traditional painting, sculpture"
   },
   {
@@ -4026,7 +4026,7 @@
   },
   {
     "name": "Mixed Media Art",
-    "prompt": "Creating art using a mix of different materials and techniques, often combining painting, collage, and sculpture.",
+    "prompt": "Creating art using a mix of different materials and techniques {prompt}, often combining painting, collage, and sculpture.",
     "negative_prompt": "single-medium art, digital art"
   },
   {
@@ -4066,7 +4066,7 @@
   },
   {
     "name": "Mosaic Art",
-    "prompt": "Creating art using small pieces of colored glass, stone, or other materials, often used for decorative surfaces.",
+    "prompt": "Creating art using small pieces of colored glass {prompt}, stone, or other materials, often used for decorative surfaces.",
     "negative_prompt": "oil painting, digital design"
   },
   {
@@ -4166,7 +4166,7 @@
   },
   {
     "name": "Native American Art",
-    "prompt": "Art created by Native Americans, often using traditional materials, symbols, and techniques.",
+    "prompt": "Art created by Native Americans {prompt}, often using traditional materials, symbols, and techniques.",
     "negative_prompt": "Asian art, digital design"
   },
   {
@@ -4406,7 +4406,7 @@
   },
   {
     "name": "Oil Painting",
-    "prompt": "Painting using oil paints, often on canvas, known for rich colors and flexible texture.",
+    "prompt": "Painting using oil paints {prompt}, often on canvas, known for rich colors and flexible texture.",
     "negative_prompt": "watercolor painting, digital art"
   },
   {
@@ -4481,7 +4481,7 @@
   },
   {
     "name": "Paper Mache Art",
-    "prompt": "Creating objects using paper mache, often in sculptures, masks, or decorative items.",
+    "prompt": "Creating objects using paper mache {prompt}, often in sculptures, masks, or decorative items.",
     "negative_prompt": "glass art, digital design"
   },
   {
@@ -4511,12 +4511,12 @@
   },
   {
     "name": "Performance Art",
-    "prompt": "Artistic performances that may include actions, movements, sounds, or spoken words, often in a live setting.",
+    "prompt": "Artistic performances that may include actions {prompt}, movements, sounds, or spoken words, often in a live setting.",
     "negative_prompt": "static painting, digital design"
   },
   {
     "name": "Performance Sculpture",
-    "prompt": "Creating sculptures that are part of performances, often using movement, sound, or interaction.",
+    "prompt": "Creating sculptures that are part of performances {prompt}, often using movement, sound, or interaction.",
     "negative_prompt": "still life painting, digital design"
   },
   {
@@ -4561,7 +4561,7 @@
   },
   {
     "name": "Pixel Art",
-    "prompt": "Creating art using pixels, often in a retro or 8-bit style, used in games and digital media.",
+    "prompt": "Creating art using pixels {prompt}, often in a retro or 8-bit style, used in games and digital media.",
     "negative_prompt": "watercolor painting, sculpture"
   },
   {
@@ -4651,12 +4651,12 @@
   },
   {
     "name": "Porcelain Art",
-    "prompt": "Creating art using porcelain, often in decorative objects, vessels, or fine tableware.",
+    "prompt": "Creating art using porcelain {prompt}, often in decorative objects, vessels, or fine tableware.",
     "negative_prompt": "wood carving, digital design"
   },
   {
     "name": "Portrait Photography",
-    "prompt": "Capturing portraits of individuals or groups, focusing on expressions, personalities, and moods.",
+    "prompt": "Capturing portraits of individuals or groups {prompt}, focusing on expressions, personalities, and moods.",
     "negative_prompt": "landscape photography, sculpture"
   },
   {
@@ -4676,7 +4676,7 @@
   },
   {
     "name": "Pottery",
-    "prompt": "Creating objects using clay, often shaped on a potter's wheel and fired in a kiln.",
+    "prompt": "Creating objects using clay {prompt}, often shaped on a potter's wheel and fired in a kiln.",
     "negative_prompt": "glass art, digital design"
   },
   {
@@ -4756,7 +4756,7 @@
   },
   {
     "name": "Public Art Installations",
-    "prompt": "Creating art installations for public spaces, often engaging with community or social themes.",
+    "prompt": "Creating art installations for public spaces {prompt}, often engaging with community or social themes.",
     "negative_prompt": "studio painting, digital art"
   },
   {
@@ -4801,7 +4801,7 @@
   },
   {
     "name": "Quilting",
-    "prompt": "Creating quilts by sewing layers of fabric together, often with decorative stitching or patterns.",
+    "prompt": "Creating quilts by sewing layers of fabric together {prompt}, often with decorative stitching or patterns.",
     "negative_prompt": "oil painting, digital art"
   },
   {
@@ -4961,7 +4961,7 @@
   },
   {
     "name": "Robotics Art",
-    "prompt": "Creating art using robotics, often for kinetic sculptures, interactive installations, or performances.",
+    "prompt": "Creating art using robotics {prompt}, often for kinetic sculptures, interactive installations, or performances.",
     "negative_prompt": "oil painting, digital design"
   },
   {
@@ -5186,7 +5186,7 @@
   },
   {
     "name": "Screen Printing",
-    "prompt": "Creating prints using a mesh screen, often for posters, clothing, or graphic designs.",
+    "prompt": "Creating prints using a mesh screen {prompt}, often for posters, clothing, or graphic designs.",
     "negative_prompt": "etching, digital design"
   },
   {
@@ -5346,7 +5346,7 @@
   },
   {
     "name": "Sound Art",
-    "prompt": "Creating art using sound, often for installations, performances, or auditory experiences.",
+    "prompt": "Creating art using sound {prompt}, often for installations, performances, or auditory experiences.",
     "negative_prompt": "painting, digital design"
   },
   {
@@ -5356,7 +5356,7 @@
   },
   {
     "name": "Sound Sculpture",
-    "prompt": "Creating sculptures that produce or manipulate sound, often for interactive or immersive experiences.",
+    "prompt": "Creating sculptures that produce or manipulate sound {prompt}, often for interactive or immersive experiences.",
     "negative_prompt": "stone sculpture, digital art"
   },
   {
@@ -5431,7 +5431,7 @@
   },
   {
     "name": "Stained Glass Art",
-    "prompt": "Creating art using colored glass, often in windows, panels, or decorative objects.",
+    "prompt": "Creating art using colored glass {prompt}, often in windows, panels, or decorative objects.",
     "negative_prompt": "pottery, digital animation"
   },
   {
@@ -5496,7 +5496,7 @@
   },
   {
     "name": "Stone Sculpture",
-    "prompt": "Carving stone to create sculptures, often using chisels, hammers, and other tools.",
+    "prompt": "Carving stone to create sculptures {prompt}, often using chisels, hammers, and other tools.",
     "negative_prompt": "metalworking, digital art"
   },
   {
@@ -5511,7 +5511,7 @@
   },
   {
     "name": "Street Art",
-    "prompt": "Creating art in public spaces, often using spray paint, stencils, or murals.",
+    "prompt": "Creating art in public spaces {prompt}, often using spray paint, stencils, or murals.",
     "negative_prompt": "studio painting, digital art"
   },
   {
@@ -5916,7 +5916,7 @@
   },
   {
     "name": "Surrealism",
-    "prompt": "Artistic movement emphasizing the unconscious, dreams, and irrationality, often using unexpected juxtapositions.",
+    "prompt": "Artistic movement emphasizing the unconscious {prompt}, dreams, and irrationality, often using unexpected juxtapositions.",
     "negative_prompt": "realism, digital design"
   },
   {
@@ -6076,7 +6076,7 @@
   },
   {
     "name": "Textile Sculpture",
-    "prompt": "Creating sculptures using textiles, often through weaving, knitting, felting, or stitching.",
+    "prompt": "Creating sculptures using textiles {prompt}, often through weaving, knitting, felting, or stitching.",
     "negative_prompt": "bronze sculpture, digital art"
   },
   {
@@ -6206,7 +6206,7 @@
   },
   {
     "name": "Traditional Pottery",
-    "prompt": "Creating pottery using traditional methods, often hand-building or using a pottery wheel.",
+    "prompt": "Creating pottery using traditional methods {prompt}, often hand-building or using a pottery wheel.",
     "negative_prompt": "digital art, modern sculpture"
   },
   {
@@ -6551,7 +6551,7 @@
   },
   {
     "name": "Urban Sculpture",
-    "prompt": "Creating sculptures for urban environments, often large-scale and site-specific.",
+    "prompt": "Creating sculptures for urban environments {prompt}, often large-scale and site-specific.",
     "negative_prompt": "interior design, digital art"
   },
   {
@@ -6661,7 +6661,7 @@
   },
   {
     "name": "Video Art",
-    "prompt": "Creating art using video, often for installations, performances, or conceptual works.",
+    "prompt": "Creating art using video {prompt}, often for installations, performances, or conceptual works.",
     "negative_prompt": "painting, digital design"
   },
   {
@@ -6681,7 +6681,7 @@
   },
   {
     "name": "Video Mapping",
-    "prompt": "Projecting video onto objects or surfaces, often for immersive experiences or artistic effects.",
+    "prompt": "Projecting video onto objects or surfaces {prompt}, often for immersive experiences or artistic effects.",
     "negative_prompt": "traditional sculpture, digital art"
   },
   {
@@ -6776,7 +6776,7 @@
   },
   {
     "name": "Virtual Reality Art",
-    "prompt": "Creating art using virtual reality, often for immersive experiences or virtual environments.",
+    "prompt": "Creating art using virtual reality {prompt}, often for immersive experiences or virtual environments.",
     "negative_prompt": "oil painting, digital design"
   },
   {
@@ -6861,12 +6861,12 @@
   },
   {
     "name": "Watercolor Painting",
-    "prompt": "Painting using watercolor paints, often on paper, known for soft washes and transparent effects.",
+    "prompt": "Painting using watercolor paints {prompt}, often on paper, known for soft washes and transparent effects.",
     "negative_prompt": "oil painting, digital design"
   },
   {
     "name": "Weaving",
-    "prompt": "Creating textiles by weaving threads or yarns on a loom, often for fabrics, tapestries, or rugs.",
+    "prompt": "Creating textiles by weaving threads or yarns on a loom {prompt}, often for fabrics, tapestries, or rugs.",
     "negative_prompt": "sculpture, digital art"
   },
   {
@@ -6901,7 +6901,7 @@
   },
   {
     "name": "Wildlife Photography",
-    "prompt": "Capturing images of wild animals, often in their natural habitats, focusing on behavior and appearance.",
+    "prompt": "Capturing images of wild animals {prompt}, often in their natural habitats, focusing on behavior and appearance.",
     "negative_prompt": "fashion photography, abstract art"
   },
   {
@@ -6936,7 +6936,7 @@
   },
   {
     "name": "Wood Carving",
-    "prompt": "Carving wood to create sculptures, ornaments, and decorative objects.",
+    "prompt": "Carving wood to create sculptures {prompt}, ornaments, and decorative objects.",
     "negative_prompt": "bronze sculpture, digital animation"
   },
   {
@@ -6951,12 +6951,12 @@
   },
   {
     "name": "Woodblock Printing",
-    "prompt": "Creating prints using carved wood blocks, often in traditional or handcrafted styles.",
+    "prompt": "Creating prints using carved wood blocks {prompt}, often in traditional or handcrafted styles.",
     "negative_prompt": "lithography, digital art"
   },
   {
     "name": "Woodcut",
-    "prompt": "Creating prints using woodcut techniques, often carving images into a block of wood.",
+    "prompt": "Creating prints using woodcut techniques {prompt}, often carving images into a block of wood.",
     "negative_prompt": "etching, digital art"
   },
   {
