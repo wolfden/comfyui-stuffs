@@ -1,9 +1,9 @@
 [
   {
-    "name": "no style",
-    "prompt": "{prompt} ",
-    "negative_prompt": " "
-  },
+        "name": "none byMileHigh",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
   {
     "name": "2D Game Art",
     "prompt": "2D Game Art {prompt}, 2D Game Art, often for platformers, pixel art, or side-scrolling games.",
